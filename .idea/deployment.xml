@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="klzhang@222.20.94.235:8706 key" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="klzhang@222.20.94.235:8706 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/zkl/ipadapter" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
